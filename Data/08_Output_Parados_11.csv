@@ -1,4 +1,4 @@
-Codigo Municipio,Suma de total Paro Registrado,Suma de Paro hombre edad < 25,Suma de Paro hombre edad 25 -45 ,Suma de Paro hombre edad >=45,Suma de Paro mujer edad < 25,Suma de Paro mujer edad 25 -45 ,Suma de Paro mujer edad >=45,Suma de Paro Agricultura,Suma de Paro Industria,Suma de Paro Construcción,Suma de Paro Servicios,Suma de Paro Sin empleo Anterior
+Codigo Municipio,Total Paro Registrado,Paro hombre edad < 25,Paro hombre edad 25 -45 ,Paro hombre edad >=45,Paro mujer edad < 25,Paro mujer edad 25 -45 ,Paro mujer edad >=45,Paro Agricultura,Paro Industria,Paro Construcción,Paro Servicios,Paro Sin empleo Anterior
 01001,1992,86,552,297,97,737,223,35,444,149,1237,127
 01002,8393,535,1816,1391,337,2243,2071,130,1683,941,5036,603
 01003,322,2,69,106,5,79,61,0,146,3,160,13
