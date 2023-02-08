@@ -8,9 +8,9 @@ Para ello, utilizamos distintos modelos de clasificación supervisada con los qu
 
 Los pasos que se han seguido en el proyecto son:  
 
-**1. Introducción:** contextualización del problema y objetivos marcados. 
-**2. Data:** Recopilación de la información para la elaboración del estudio.
-**3. Mapa_Densidad:** Mapas coropléticos de todo el territorio nacional con el que se realiza un primer diagnóstico de cómo se distribuye la densidad de la población en los municipios de España entre los años 2011 y 2021.  
+**1. Introducción:** contextualización del problema y objetivos marcados.  
+**2. Data:** Recopilación de la información para la elaboración del estudio.  
+**3. Mapa_Densidad:** Mapas coropléticos de todo el territorio nacional con el que se realiza un primer diagnóstico de cómo se distribuye la densidad de la población en los municipios de España entre los años 2011 y 2021.   
 **4. Union_Depuracion_Data:** Integración de toda la información recopilada previamente en el apartado 2 y posterior limpieza de los datos.  
 **5. Análisis_Preliminar_Variables:** Exploración preliminar de los datos y su correspondiente análisis descriptivo.  
 **6. ML:** Entrenamiento de 5 modelos de clasificación, evaluación de los resultados y optimización del modelo con el ajuste de hiper parámetros.  
